@@ -14,7 +14,6 @@ To write a program to implement the Decision Tree Regressor Model for Predicting
 4. From sklearn.tree import DecisionTreeRegressor.
 5. Import metrics and calculate the Mean squared error.
 6. Apply metrics to the dataset, and predict the output.
-
 ## Program:
 ```
 /*
